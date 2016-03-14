@@ -5,6 +5,7 @@ A collection of [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 - [Must Reads](#must-reads)
 - [Videos](#videos)
+- [Resources](#resources)
 
 ## Must Reads
 
@@ -13,3 +14,8 @@ A collection of [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 ## Videos
 
 - [Offline Web Applications Using IndexedDB & Service Worker](https://www.udacity.com/course/offline-web-applications--ud899) - This free Udacity course is a must if you're planning to dive deep into Service Workers.
+
+## Resources
+
+- [The offline cookbook](https://jakearchibald.com/2014/offline-cookbook/) - The bible of Service Worker Patterns by Jake Archibald
+- [ServiceWorker Cookbook by Mozilla](https://serviceworke.rs/) - A collection of recipes for different use cases
