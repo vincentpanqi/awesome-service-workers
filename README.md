@@ -5,6 +5,7 @@ A collection of [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 - [Must Reads](#must-reads)
 - [Learning Resources](#learning-resources)
+- [Reference](#reference)
 - [Libraries and Tools](@libraries-and-tools)
 - [Videos](#videos)
 
@@ -20,6 +21,10 @@ A collection of [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [The offline cookbook](https://jakearchibald.com/2014/offline-cookbook/) - The bible of Service Worker Patterns by Jake Archibald.
 - [Building Offline Sites with ServiceWorkers and UpUp](https://dev.opera.com/articles/offline-with-upup-service-workers/) - A general introduction to Service Workers and on using UpUp to provide offline functionality in minutes.
 - [ServiceWorker Cookbook by Mozilla](https://serviceworke.rs/) - A collection of recipes for different use cases.
+
+## Reference
+
+- [Service Workers - W3C Specification](https://www.w3.org/TR/service-workers/)
 
 ## Libraries and Tools
 
