@@ -12,6 +12,7 @@ A collection of [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 - [Introduction to Service Worker](http://www.html5rocks.com/en/tutorials/service-worker/introduction/) - A graceful introduction to Service Workers.
 - [Offline Web Applications Using IndexedDB & Service Worker](https://www.udacity.com/course/offline-web-applications--ud899) - This free Udacity course is a must if you're planning to dive deep into Service Workers.
+- [Designing Offline-First Web Apps](http://alistapart.com/article/offline-first) - A fascinating look at design and UX considerations for dealing with various states of connectivity.
 
 ## Learning Resources
 
