@@ -22,6 +22,12 @@ A collection of [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Building Offline Sites with ServiceWorkers and UpUp](https://dev.opera.com/articles/offline-with-upup-service-workers/) - A general introduction to Service Workers and on using UpUp to provide offline functionality in minutes.
 - [ServiceWorker Cookbook by Mozilla](https://serviceworke.rs/) - A collection of recipes for different use cases.
 
+## Background Sync
+
+- [Background Sync Spec](https://wicg.github.io/BackgroundSync/spec/) - The WIP spec for Background Sync.
+- [Background Sync Explained](https://github.com/WICG/BackgroundSync/blob/master/explainer.md) - The official "explainer" document for background sync, including one-off synchronization and periodic synchronization.
+- [Introducing Background Sync](https://developers.google.com/web/updates/2015/12/background-sync?hl=en) - A more reader friendly introduction to background sync, with some great video and code samples.
+
 ## Reference
 
 - [Service Workers - W3C Specification](https://www.w3.org/TR/service-workers/)
