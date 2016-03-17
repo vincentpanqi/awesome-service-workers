@@ -5,8 +5,9 @@ A collection of [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 - [Must Reads](#must-reads)
 - [Learning Resources](#learning-resources)
+- [Background Sync](#background-sync)
 - [Reference](#reference)
-- [Libraries and Tools](@libraries-and-tools)
+- [Libraries and Tools](#libraries-and-tools)
 - [Videos](#videos)
 
 ## Must Reads
@@ -30,7 +31,8 @@ A collection of [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 ## Reference
 
-- [Service Workers - W3C Specification](https://www.w3.org/TR/service-workers/)
+- [Service Workers - W3C Specification](https://www.w3.org/TR/service-workers/) - The official Service Workers spec.
+- [Background Sync Spec](https://wicg.github.io/BackgroundSync/spec/) - The WIP spec for Background Sync.
 
 ## Libraries and Tools
 
