@@ -10,6 +10,7 @@ A collection of [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Videos](#videos)
 - [Specific Technologies](#specific-technologies)
   - [Background Sync](#background-sync)
+  - [Installable Web Apps](#installable-web-apps)
 
 ## Must Reads
 
@@ -45,3 +46,8 @@ A collection of [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Background Sync Spec](https://wicg.github.io/BackgroundSync/spec/) - The WIP spec for Background Sync.
 - [Background Sync Explained](https://github.com/WICG/BackgroundSync/blob/master/explainer.md) - The official "explainer" document for background sync, including one-off synchronization and periodic synchronization.
 - [Introducing Background Sync](https://developers.google.com/web/updates/2015/12/background-sync?hl=en) - A more reader friendly introduction to background sync, with some great video and code samples.
+
+### Installable Web Apps
+
+- [Installable Web Apps with the Web App Manifest in Chrome for Android](https://developers.google.com/web/updates/2014/11/Support-for-installable-web-apps-with-webapp-manifest-in-chrome-38-for-Android)
+- [Increasing Engagement with Web App Install Banners](https://developers.google.com/web/updates/2015/03/increasing-engagement-with-app-install-banners-in-chrome-for-android?hl=en) - An intro to App Install Banners and making sure Chrome offers your web app to your users.
