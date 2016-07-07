@@ -2,8 +2,9 @@
 
 > A curated collection of ServiceWorkers resources.
 
-
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
+If you want to contribute, please read the [contribution guidelines](contributing.md).
 
 # Table of Contents
 
