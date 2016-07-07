@@ -27,6 +27,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 - [Building Offline Sites with ServiceWorkers and UpUp](https://dev.opera.com/articles/offline-with-upup-service-workers/) - A general introduction to Service Workers and on using UpUp to provide offline functionality in minutes.
 - [Introduction to Service Worker](http://www.html5rocks.com/en/tutorials/service-worker/introduction/)
+- [Service Workers 101](https://github.com/delapuente/service-workers-101) - An infographic summarizing the most important parts of Service Workers API.
 - [ServiceWorker Cookbook by Mozilla](https://serviceworke.rs/) - A collection of recipes for different use cases.
 - [The offline cookbook](https://jakearchibald.com/2014/offline-cookbook/) - The bible of Service Worker Patterns by Jake Archibald.
 
