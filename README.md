@@ -11,6 +11,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Must Reads](#must-reads)
 - [Learning Resources](#learning-resources)
 - [Reference](#reference)
+- [Browser Support](#browser-support)
 - [Libraries and Tools](#libraries-and-tools)
 - [Videos](#videos)
 - [Specific Technologies](#specific-technologies)
@@ -34,6 +35,11 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 - [Background Sync Spec](https://wicg.github.io/BackgroundSync/spec/) - The WIP spec for Background Sync.
 - [Service Workers - W3C Specification](https://www.w3.org/TR/service-workers/) - The official Service Workers spec.
+
+## Browser Support
+
+- [Can I Use - Service Workers](http://caniuse.com/#feat=serviceworkers) - Up-to-date browser support table of ServiceWorker API.
+- [Jake Archibald - Is Service Worker ready?](https://jakearchibald.github.io/isserviceworkerready/) - Current status of ServiceWorker support in different browsers.
 
 ## Libraries and Tools
 
