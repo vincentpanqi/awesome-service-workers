@@ -22,6 +22,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Designing Offline-First Web Apps](http://alistapart.com/article/offline-first) - A fascinating look at design and UX considerations for dealing with various states of connectivity.
 - [Introduction to Service Worker](http://www.html5rocks.com/en/tutorials/service-worker/introduction/) - A graceful introduction to Service Workers.
 - [Offline Web Applications Using IndexedDB & Service Worker](https://www.udacity.com/course/offline-web-applications--ud899) - This free Udacity course is a must if you're planning to dive deep into Service Workers.
+- [Service Workers Explained](https://github.com/slightlyoff/ServiceWorker/blob/master/explainer.md) - Service Workers explained by [Alex Russell](https://github.com/slightlyoff).
 
 ## Learning Resources
 
