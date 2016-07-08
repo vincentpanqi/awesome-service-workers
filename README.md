@@ -18,6 +18,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Browser Support](#browser-support)
 - [Libraries and Tools](#libraries-and-tools)
 - [Videos](#videos)
+- [Case Studies](#case-studies)
 - [Specific Technologies](#specific-technologies)
   - [Background Sync](#background-sync)
   - [Installable Web Apps](#installable-web-apps)
@@ -57,6 +58,10 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 - [Instant Loading: Building offline-first Progressive Web Apps - Google I/O 2016](https://youtu.be/cmGr0RszHc8) - A quick dive into the most common technologies and techniques for building progressive web apps.
 - [Offline Web Applications Using IndexedDB & Service Worker](https://www.udacity.com/course/offline-web-applications--ud899) - This free Udacity course is a must if you're planning to dive deep into service workers.
+
+## Case Studies
+
+- [Service Workers in Production](https://developers.google.com/web/showcase/case-study/service-workers-iowa) - A case-study about how Google I/O 2015 web app was built.
 
 ## Specific Technologies
 
