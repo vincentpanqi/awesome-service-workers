@@ -51,8 +51,9 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ## Libraries and Tools
 
-- [Manifest Generator](https://brucelawson.github.io/manifest/) - Generate a web app manifest, required for push notifications and installable web apps.
 - [UpUp](http://upup.rocks/) - A popular service worker library providing complete offline functionality for your site in 1 line of code.
+- [sw-toolbox](https://github.com/GoogleChrome/sw-toolbox/) - A collection of simple helpers to simplify implementing common caching patterns.
+- [Manifest Generator](https://brucelawson.github.io/manifest/) - Generate a web app manifest, required for push notifications and installable web apps.
 
 ## Videos
 
