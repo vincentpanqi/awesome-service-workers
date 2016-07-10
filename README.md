@@ -84,3 +84,4 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 - [Can I Use - Push API](http://caniuse.com/#feat=serviceworkers) - Up-to-date browser support table of Push API.
 - [Chrome Platform Status - Web Notifications](https://www.chromestatus.com/feature/5480344312610816) - Implementation status for Chrome and other browsers.
+- [PWA Dev Summit 2016 codelab - Push Notifications](https://developers.google.com/web/fundamentals/getting-started/push-notifications/?hl=en) Up-to-date getting started tutorial for Progressive Web App, Push Notifications and service worker basics.
