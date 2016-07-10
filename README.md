@@ -22,7 +22,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Specific Technologies](#specific-technologies)
   - [Background Sync](#background-sync)
   - [Installable Web Apps](#installable-web-apps)
-  - [Push Notifications](#push notifications)
+  - [Push Notifications](#push-notifications)
 
 ## Must Reads
 
