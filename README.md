@@ -83,3 +83,4 @@ If you want to contribute, please read the [contribution guidelines](contributin
 ### Push Notifications
 
 - [Can I Use - Push API](http://caniuse.com/#feat=serviceworkers) - Up-to-date browser support table of Push API.
+- [Chrome Platform Status - Web Notifications](https://www.chromestatus.com/feature/5480344312610816) - Implementation status for Chrome and other browsers.
