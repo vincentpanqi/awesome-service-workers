@@ -22,6 +22,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Specific Technologies](#specific-technologies)
   - [Background Sync](#background-sync)
   - [Installable Web Apps](#installable-web-apps)
+  - [Push Notifications](#push notifications)
 
 ## Must Reads
 
@@ -76,3 +77,5 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 - [Increasing Engagement with Web App Install Banners](https://developers.google.com/web/updates/2015/03/increasing-engagement-with-app-install-banners-in-chrome-for-android?hl=en) - An intro to App Install Banners and making sure Chrome offers your web app to your users.
 - [Installable Web Apps with the Web App Manifest in Chrome for Android](https://developers.google.com/web/updates/2014/11/Support-for-installable-web-apps-with-webapp-manifest-in-chrome-38-for-Android) - An introduction to installable Web Apps in Chrome for Android.
+
+### Push Notifications
