@@ -22,6 +22,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Specific Technologies](#specific-technologies)
   - [Background Sync](#background-sync)
   - [Installable Web Apps](#installable-web-apps)
+  - [Push Notifications](#push-notifications)
 
 ## Must Reads
 
@@ -76,3 +77,10 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 - [Increasing Engagement with Web App Install Banners](https://developers.google.com/web/updates/2015/03/increasing-engagement-with-app-install-banners-in-chrome-for-android?hl=en) - An intro to App Install Banners and making sure Chrome offers your web app to your users.
 - [Installable Web Apps with the Web App Manifest in Chrome for Android](https://developers.google.com/web/updates/2014/11/Support-for-installable-web-apps-with-webapp-manifest-in-chrome-38-for-Android) - An introduction to installable Web Apps in Chrome for Android.
+
+### Push Notifications
+
+- [Can I Use - Push API](http://caniuse.com/#feat=serviceworkers) - Up-to-date browser support table of Push API.
+- [Chrome Platform Status - Web Notifications](https://www.chromestatus.com/feature/5480344312610816) - Implementation status for Chrome and other browsers.
+- [PWA Dev Summit 2016 codelab - Push Notifications](https://developers.google.com/web/fundamentals/getting-started/push-notifications/?hl=en) Up-to-date getting started tutorial for Progressive Web App, Push Notifications and service worker basics.
+- [Using the Push API](https://developer.mozilla.org/en-US/docs/Web/API/Push_API/Using_the_Push_API) - An article introducing Push API.
