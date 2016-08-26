@@ -70,5 +70,6 @@ If you want to contribute, please read the [contribution guidelines](contributin
 ## Related Technologies
 
 - [Background Sync](https://github.com/TalAter/awesome-progressive-web-apps#background-sync)
+- [CacheStorage API](https://github.com/TalAter/awesome-progressive-web-apps#cachestorage-api)
 - [Push Notifications](https://github.com/TalAter/awesome-progressive-web-apps#push-notifications)
 - [App Install Banners](https://github.com/TalAter/awesome-progressive-web-apps#installable-web-apps)
